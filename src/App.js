@@ -13,7 +13,7 @@ function CustomLink({ children, to, ...props }) {
   return (
     <div>
       <Link
-        style={{ background: match ? "#452d88" : "none", color: match ? "#eee" : "none" }}
+        style={{ background: match ? "#5131a9" : "none", color: match ? "#eee" : "none"  }}
         to={to}
         {...props}
       >
