@@ -45,7 +45,7 @@ body {
   transition: 0.3s ease all;
   overflow: hidden;
   cursor: pointer;
-  border-right:1px solid #7a4df5;
+  border-right:1px solid #5a2fcf;
 }
 
 .tab a {
@@ -56,7 +56,7 @@ body {
 }
 
 .tab a.is-active {
-  background: #190355;
+  background: #452d88;
   color: #eee;
 }
 
